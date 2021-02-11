@@ -22,17 +22,18 @@ title: Dan
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Dan.
-  I plan to write about what I'm learning & working on, or things I have observed, experienced when living in Japan.
+  I write about what I'm learning & working on, or things I have experienced when living in Japan.
   Hope this blog can bring to you something meaningful. Thank you for visiting my blog!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://linhdangduy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dan_du_li
-github_username:  linhdangduy
+github_username: linhdangduy
+facebook_username: dangduylinh256
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 show_excerpts: true
 
