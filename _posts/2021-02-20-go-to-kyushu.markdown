@@ -3,6 +3,7 @@ layout: post
 title: "Go to Kyushu!"
 date: 2021-02-20 17:56:28 +0900
 categories: Discovery
+image: ../../../../assets/kyushu.png
 ---
 Mình cảm thấy may mắn và biết ơn khi có cơ hội đến làm việc ở vùng Kyusyu, Nhật Bản. 
 Mới ngày nào rời Tokyo náo nhiệt để đến Kyushu mà giờ đã qua ba tháng, 
